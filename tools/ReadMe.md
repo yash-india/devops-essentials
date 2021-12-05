@@ -5,12 +5,21 @@
 - [visualizing-k8s-using-dashboard](task-002-visualizing-k8s-using-dashboard)
 - [mac book pro productivity](https://medium.com/adventures-in-consumer-technology/3-keyboard-shortcuts-i-wish-i-learned-long-ago-385d7f73e822)
 
+### Developer Experience
+
+- [Setting up IDE Microsoft Visual Studio for Python]w(task-004-setting-up-visual-studio-python)
+
 
 ### Tools that you should have knowledge about
 
 - [Apache Kafka](https://kafka.apache.org/documentation/)
 
 
+### Infra Architecture Diagrams
+
+[https://online.visual-paradigm.com/](https://online.visual-paradigm.com/)
+[https://www.edrawmax.com/](https://www.edrawmax.com/)
+[https://sketchboard.me/](https://sketchboard.me/)
 
 
 
